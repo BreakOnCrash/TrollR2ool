@@ -1,0 +1,13 @@
+.theos/
+packages/
+.DS_Store
+
+packages/
+*.tipa
+
+# clangd
+.vscode/
+.cache/
+compile_commands.json
+# tests
+tests/Payload/TestApp1.app/TestApp1

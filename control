@@ -1,0 +1,8 @@
+Package: com.zznq.trollr2ool
+Name: TrollR2ool
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: 巴斯.zznQ
+Author: 巴斯.zznQ
+Section: Utilities
