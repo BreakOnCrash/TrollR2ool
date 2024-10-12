@@ -10,7 +10,7 @@ An iOS runtime analysis tool(for TrollStore).
 - Anti-Debug Code Detection (ptrace & svc)
 
 ## Preview
-<img width="8%" src="./docs/icon.png" style="border-radius:9px">
+<img width="10%" src="./docs/icon.png">
 
 <img width="30%" src="./docs/preview1.PNG"><img width="30%" src="./docs/preview2.PNG"><img width="30%" src="./docs/preview3.PNG">
 
