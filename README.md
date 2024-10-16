@@ -1,13 +1,10 @@
 # TrollR2ool 
 An iOS runtime analysis tool(for TrollStore).
 
-[now-on-havoc]: https://havoc.app/package/trollr2ool 
-
-[<img width="150" src="https://docs.havoc.app/img/badges/get_square.svg" />][now-on-havoc]
-
 ## Feature
 - Enumerate Running Processes (Apps)
 - Anti-Debug Code Detection (ptrace & svc)
+- TODO ...
 
 ## Preview
 <img width="10%" src="./docs/icon.png">
